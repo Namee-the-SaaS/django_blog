@@ -1,4 +1,4 @@
-# Django blog
+# Django blog test
 This is my first time using Django web framework. 
 This blog is just a page with inputs for creating the articles and possibility to read them.
 
